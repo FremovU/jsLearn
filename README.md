@@ -9,3 +9,9 @@ const COLOR_ORANGE = "#FF7F00";
 let color = COLOR_ORANGE;
 alert(color); // #FF7F00
 ```
+Преимущества:
+
+COLOR_ORANGE гораздо легче запомнить, чем "#FF7F00".
+Гораздо легче допустить ошибку при вводе "#FF7F00", чем при вводе COLOR_ORANGE.
+При чтении кода COLOR_ORANGE намного понятнее, чем #FF7F00.
+
