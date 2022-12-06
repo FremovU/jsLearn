@@ -1,5 +1,5 @@
-
-# Переменные
+# JsLearn
+## Переменные
 ```js
 const COLOR_RED = "#F00";
 const COLOR_GREEN = "#0F0";
