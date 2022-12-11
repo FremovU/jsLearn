@@ -1,1 +1,1 @@
-alert(123)
+prompt('text', 123)
